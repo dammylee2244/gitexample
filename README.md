@@ -1,2 +1,2 @@
 #MyApp
-This is my MyApp
+This is my My-App
